@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @SupremeSpookmaster.
-I work on TF2 plugins, mainly Freak Fortress. I probably won't use this account very often, but it's nice to have it just in case.
+I'm a long-time TF2 SourceMod author, and the creator of ***[Chaos Fortress (WIP)](https://github.com/SupremeSpookmaster/Chaos-Fortress)***. Aside from SourcePawn, I specialize in C# and C++. Games are fun, but making them is even better!
